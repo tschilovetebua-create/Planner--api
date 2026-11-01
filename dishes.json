@@ -1,0 +1,308 @@
+[
+  {
+    "id": "jollof",
+    "name": "Jollof Rice & Chicken",
+    "country": "Nigeria",
+    "tag": "Smoky, hearty, festive"
+  },
+  {
+    "id": "egusi",
+    "name": "Egusi Soup",
+    "country": "Nigeria",
+    "tag": "Nutty, rich, filling"
+  },
+  {
+    "id": "wat",
+    "name": "Doro Wat",
+    "country": "Ethiopia",
+    "tag": "Spiced, slow-cooked chicken stew"
+  },
+  {
+    "id": "tagine",
+    "name": "Chicken Tagine with Apricots",
+    "country": "Morocco",
+    "tag": "Sweet, savory, aromatic"
+  },
+  {
+    "id": "bunnychow",
+    "name": "Bunny Chow",
+    "country": "South Africa",
+    "tag": "Curry-filled bread, hearty"
+  },
+  {
+    "id": "piripiri",
+    "name": "Peri-Peri Chicken",
+    "country": "Mozambique",
+    "tag": "Fiery, charred, citrusy"
+  },
+  {
+    "id": "sushi",
+    "name": "Sushi",
+    "country": "Japan",
+    "tag": "Fresh and healthy"
+  },
+  {
+    "id": "padthai",
+    "name": "Pad Thai",
+    "country": "Thailand",
+    "tag": "Sweet, savory, tangy"
+  },
+  {
+    "id": "butterchicken",
+    "name": "Butter Chicken & Naan",
+    "country": "India",
+    "tag": "Creamy, spiced, comforting"
+  },
+  {
+    "id": "bibimbap",
+    "name": "Bibimbap",
+    "country": "South Korea",
+    "tag": "Colorful, balanced, savory"
+  },
+  {
+    "id": "pho",
+    "name": "Beef Pho",
+    "country": "Vietnam",
+    "tag": "Fragrant broth, herby, light"
+  },
+  {
+    "id": "rendang",
+    "name": "Beef Rendang",
+    "country": "Indonesia",
+    "tag": "Slow-cooked, coconut, deeply spiced"
+  },
+  {
+    "id": "dumplings",
+    "name": "Pork Dumplings",
+    "country": "China",
+    "tag": "Juicy, folded, dipped in vinegar"
+  },
+  {
+    "id": "carbonara",
+    "name": "Pasta Carbonara",
+    "country": "Italy",
+    "tag": "Classic, creamy, rich"
+  },
+  {
+    "id": "coqauvin",
+    "name": "Coq au Vin",
+    "country": "France",
+    "tag": "Slow-braised, winey"
+  },
+  {
+    "id": "paella",
+    "name": "Seafood Paella",
+    "country": "Spain",
+    "tag": "Saffron rice, coastal, sociable"
+  },
+  {
+    "id": "schnitzel",
+    "name": "Pork Schnitzel",
+    "country": "Germany",
+    "tag": "Crisp, golden, simple"
+  },
+  {
+    "id": "moussaka",
+    "name": "Moussaka",
+    "country": "Greece",
+    "tag": "Layered, baked, comforting"
+  },
+  {
+    "id": "fishchips",
+    "name": "Fish and Chips",
+    "country": "United Kingdom",
+    "tag": "Crisp batter, flaky fish"
+  },
+  {
+    "id": "chowder",
+    "name": "New England Clam Chowder",
+    "country": "United States",
+    "tag": "Creamy, briny, comforting"
+  },
+  {
+    "id": "poutine",
+    "name": "Poutine",
+    "country": "Canada",
+    "tag": "Fries, cheese curds, gravy"
+  },
+  {
+    "id": "arepas",
+    "name": "Cheese Arepas",
+    "country": "Colombia",
+    "tag": "Griddled corn cakes, cheesy"
+  },
+  {
+    "id": "tacos",
+    "name": "Tacos al Pastor",
+    "country": "Mexico",
+    "tag": "Spicy, fresh, flavorful"
+  },
+  {
+    "id": "feijoada",
+    "name": "Feijoada",
+    "country": "Brazil",
+    "tag": "Rich, smoky, slow-cooked"
+  },
+  {
+    "id": "empanadas",
+    "name": "Beef Empanadas",
+    "country": "Argentina",
+    "tag": "Baked pastry, savory filling"
+  },
+  {
+    "id": "kebab",
+    "name": "Turkish Kebab",
+    "country": "Turkey",
+    "tag": "Grilled, herby, juicy"
+  },
+  {
+    "id": "falafel",
+    "name": "Falafel",
+    "country": "Lebanon",
+    "tag": "Crisp, herby, plant-based"
+  },
+  {
+    "id": "hummus",
+    "name": "Hummus with Warm Pita",
+    "country": "Israel",
+    "tag": "Creamy, garlicky, simple"
+  },
+  {
+    "id": "biryani",
+    "name": "Saffron Rice with Lamb",
+    "country": "Iran",
+    "tag": "Fragrant, jewelled, festive"
+  },
+  {
+    "id": "pavlova",
+    "name": "Pavlova",
+    "country": "Australia",
+    "tag": "Crisp meringue, soft center"
+  },
+  {
+    "id": "hangi",
+    "name": "Hangi-Style Lamb & Kumara",
+    "country": "New Zealand",
+    "tag": "Smoky, earthy, slow-cooked"
+  },
+  {
+    "id": "kokoda",
+    "name": "Kokoda",
+    "country": "Fiji",
+    "tag": "Citrus-cured fish, coconut, fresh"
+  },
+  {
+    "id": "koshari",
+    "name": "Koshari",
+    "country": "Egypt",
+    "tag": "Layered carbs, tangy tomato sauce"
+  },
+  {
+    "id": "tunisiancouscous",
+    "name": "Tunisian Couscous with Lamb",
+    "country": "Tunisia",
+    "tag": "Spiced, hearty, one-pot"
+  },
+  {
+    "id": "sadza",
+    "name": "Sadza with Beef Stew",
+    "country": "Zimbabwe",
+    "tag": "Cornmeal staple, rich stew"
+  },
+  {
+    "id": "groundnutsoup",
+    "name": "Groundnut Soup",
+    "country": "Sierra Leone",
+    "tag": "Peanut stew, rich, warming"
+  },
+  {
+    "id": "kungpao",
+    "name": "Kung Pao Chicken",
+    "country": "China",
+    "tag": "Spicy, nutty, stir-fried"
+  },
+  {
+    "id": "ramen",
+    "name": "Shoyu Ramen",
+    "country": "Japan",
+    "tag": "Savory broth, springy noodles"
+  },
+  {
+    "id": "adobo",
+    "name": "Chicken Adobo",
+    "country": "Philippines",
+    "tag": "Tangy, savory, braised"
+  },
+  {
+    "id": "karahi",
+    "name": "Chicken Karahi",
+    "country": "Pakistan",
+    "tag": "Tomato-rich, gingery, bold"
+  },
+  {
+    "id": "bhuna",
+    "name": "Chicken Bhuna",
+    "country": "Bangladesh",
+    "tag": "Thick, dark, deeply spiced"
+  },
+  {
+    "id": "srilankancurry",
+    "name": "Sri Lankan Chicken Curry",
+    "country": "Sri Lanka",
+    "tag": "Coconut, curry leaves, roasted spice"
+  },
+  {
+    "id": "pierogi",
+    "name": "Pierogi",
+    "country": "Poland",
+    "tag": "Filled dumplings, buttery"
+  },
+  {
+    "id": "stroganoff",
+    "name": "Beef Stroganoff",
+    "country": "Russia",
+    "tag": "Creamy, tangy, comforting"
+  },
+  {
+    "id": "lomosaltado",
+    "name": "Lomo Saltado",
+    "country": "Peru",
+    "tag": "Stir-fried beef, fries, soy-sharp"
+  },
+  {
+    "id": "cazuela",
+    "name": "Cazuela",
+    "country": "Chile",
+    "tag": "Chicken and vegetable stew, homey"
+  },
+  {
+    "id": "jerkchicken",
+    "name": "Jerk Chicken",
+    "country": "Jamaica",
+    "tag": "Smoky, spicy, deeply marinated"
+  },
+  {
+    "id": "ropavieja",
+    "name": "Ropa Vieja",
+    "country": "Cuba",
+    "tag": "Shredded beef, peppers, tomato"
+  },
+  {
+    "id": "kabsa",
+    "name": "Chicken Kabsa",
+    "country": "Saudi Arabia",
+    "tag": "Spiced rice, whole chicken, festive"
+  },
+  {
+    "id": "mansaf",
+    "name": "Chicken Mansaf",
+    "country": "Jordan",
+    "tag": "Yogurt sauce, rice, festive"
+  },
+  {
+    "id": "dolma",
+    "name": "Dolma",
+    "country": "Iraq",
+    "tag": "Stuffed vegetables, rice, tangy"
+  }
+]
